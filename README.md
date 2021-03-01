@@ -48,3 +48,4 @@ require( __DIR__.'/facebook_start.php' );
   $bg_path = 'IMG_PATH';
 
 https://www.bethedev.com/2016/11/create-facebook-profile-picture-overlay.html
+https://developers.facebook.com/products/frame-studio/
